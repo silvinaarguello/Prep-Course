@@ -1,0 +1,11 @@
+* `for`
+ES un bucle que contiene una variable y esta nos sirve para repetir un bloque de código si es TRUE y va a dejar de funcionar cuando sea FALSE.
+
+* `&&`
+Es un tipo de operador logico  (es lo mismo que decir "AND" o "y") que nos va a permitir combinar dos expresiones, en el caso que ambas expresiones sean verdaderas, nos devolvera como resultado TRUE, y en el caso de que una de estas expresiones sea falsa, el resultado será FALSE, ya que una expresión condiciona a la otra.
+ 
+ `||`
+Es otro tipo de operador lógico que significa "O". Este tipo de operador nos permite determinar si una de las expresiones es verdadera, entonces nos dará como resultado "TRUE" y solo nos dará como resultado "FALSE" si ambas expresiones son falsas ya que una expresión no condiciona la otra.
+
+  `!`
+Es un operador lógico ("NOT" o "NO"), se lo representa con un signo de exclamación  y nos devolverá un valor boleano contrario de lo que escribimos, es decir la "negaiva" de nuestra expresión.
