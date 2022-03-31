@@ -1,0 +1,2 @@
+ARRAY: son objetos similares a una lista.
+podemos almacenar todo tipo datos y estos nos permiten realizar distintas operaciones de recorrido dentro de ellas.
