@@ -4,10 +4,11 @@
 
 	* Métodos: son las funciones guardadas en un objeto, como por ejemplo. length, .push, etc
 
-	* Bucle `for…in`: son buclees que iterna sobre nuestro objeto.
+	* Bucle `for…in`: son bucles que iteran sobre nuestro objeto.
 	el FOR ON recorre la lista, describe su nombre o el valor de la posición
 	y el FOR IN nos indica la posición del elemento al que queremos acceder.
 
 	* Notación de puntos vs notación de corchetes
-	La notación de puntos nos sirve para para llamar al nombre del objeto, un punto y el nombre de la clave.
-	La notación de corchetes es como llamar un elemento en una matriz, perop hay que tener en cuenta que con los corchetes se debe usar una cadena o una variable que apunte a ser una cadena o numero.
+	La notación de puntos nos sirve para llamar al nombre del objeto, un punto y el nombre de la clave.
+	
+	La notación de corchetes es como llamar un elemento en una matriz, pero hay que tener en cuenta que con los corchetes se debe usar una cadena o una variable que apunte a ser una cadena o numero.
